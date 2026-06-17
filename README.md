@@ -114,7 +114,7 @@ I'm always open to conversations about data, BI, ERP systems, or content creatio
 <a href="https://www.youtube.com/@your-channel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 <a href="https://medium.com/@your-handle" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
 <a href="https://www.instagram.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vishnu-vardhan-rao-badhrapu-621237189//in/your-handle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <div align="center">
